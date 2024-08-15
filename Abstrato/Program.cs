@@ -1,7 +1,7 @@
 ﻿using System;
 using Abstrata;
 
-namespace Abtrata
+namespace Abstrato
 {
     public class Program
     {

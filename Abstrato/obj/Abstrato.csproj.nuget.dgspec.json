@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rodrigo\\Desktop\\ConceitosC#\\Abtrata\\Abtrata.csproj": {}
+    "H:\\_ProjetoGit\\C#\\Console\\ConceitosC#\\Abtrata\\Abtrata.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rodrigo\\Desktop\\ConceitosC#\\Abtrata\\Abtrata.csproj": {
+    "H:\\_ProjetoGit\\C#\\Console\\ConceitosC#\\Abtrata\\Abtrata.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rodrigo\\Desktop\\ConceitosC#\\Abtrata\\Abtrata.csproj",
+        "projectUniqueName": "H:\\_ProjetoGit\\C#\\Console\\ConceitosC#\\Abtrata\\Abtrata.csproj",
         "projectName": "Abtrata",
-        "projectPath": "C:\\Users\\Rodrigo\\Desktop\\ConceitosC#\\Abtrata\\Abtrata.csproj",
+        "projectPath": "H:\\_ProjetoGit\\C#\\Console\\ConceitosC#\\Abtrata\\Abtrata.csproj",
         "packagesPath": "C:\\Users\\Rodrigo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rodrigo\\Desktop\\ConceitosC#\\Abtrata\\obj\\",
+        "outputPath": "H:\\_ProjetoGit\\C#\\Console\\ConceitosC#\\Abtrata\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Programas\\Microsoft Visual Studio\\Shared\\NuGetPackages",
